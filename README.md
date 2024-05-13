@@ -16,7 +16,7 @@ Additionally you can also visit this [page](https://shashanksp04.github.io/CMSC3
 
 ## Contributors
 
-- [Shashank]
-- [Tanay]
-- [Aniruddh]
-- [Abhi]
+- Shashank Pratap Singh
+- Tanay Shah
+- Aniruddh Mutnuru
+- Abhi Mukherjee
