@@ -1,4 +1,9 @@
-/* Define styles for the elements */
+/* Defining styles for the elements */
+
+h1 {
+    text-align: center;
+    color: orangered;
+}
 #Title {
     color: #3366cc; /* Blue */
 }
